@@ -1,0 +1,11 @@
+{
+  "name": "Le Petit Déj de Myra",
+  "short_name": "Myra",
+  "description": "Commande de sandwichs, salades, omelettes et boissons à Brazzaville.",
+  "lang": "fr-CG",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8F5F0",
+  "theme_color": "#7A0B0E"
+}
